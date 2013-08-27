@@ -1,0 +1,84 @@
+2 veces a la semana, cada una de 1 a 1.30 hr. despues de las clases.
+1 vez a la semana, dia sabado desde las 9-12 A.M.
+------------------------------------------------------
+Total 3 semanas seguidas.
+------------------------------------------------------
+======================================================
+----- Desarollo de aplicaciones Web
+/* AULA-1 Session de 1:30 hrs.
+·
+· Concepto de servidores (WAMPP,LAMP)
+· Tecnologias usadas para crear Applicaciones Webs
+· PHP, MySQL, HTML, HTML5, CSS3
+· Introducción a programación - PHP
+· Manipulación de Base de Datos - MySQL
+· Sistema de Gestión de Contenidos (CMS's) 
+·
+*/
+/* AULA-3 Session de 1:30 hrs.
+·
+· Instalación de WAMPP
+· Programación en PHP
+· Declaración de variables
+· Verdadero o falso
+· Sentencia IF
+· Sentencia FOR
+· Sentencia WHILE
+· Sentencia Switch
+· Funciones
+· 
+*/
+/* AULA-3 Session de fin de semana 9-12
+·
+· Instalación de WAMPP
+· Conbinar PHP, HTML, CSS
+· Funciones
+· Conexiones a Base de Datos - MySQL
+· Parametros GET & POST
+· Manejo de sesiones - Login
+· Proyecto "Buscador & Reproductor de musica"
+· Instalación de una CMS (WordPress)
+· CMS - Tienda OnLine (OpenCart)
+·
+*/
+======================================================
+----- Programación C#
+
+· Introducción a la plataforma
+· .NET Framework
+· ¿Por que C#?
+· Descripción del entorno de desarrollo IDE
+
+======================================================
+----- Programacion de Aplicaciones para Android
+/* AULA-1 Session de 1:30
+·
+· Introducción a Android
+· Versiones de Android
+· Java
+· Eclipse: instalación y uso
+· El emulador de Android
+· Google Play
+· Todo lo que quieres saber acerca de Android
+*/
+/* AULA-3 Session de 1:30
+· Crear proyecto Android
+· Interfaz de Usuario TextView, Button
+· Declarar TextView y Button en Java
+· OnClickListener y Variables Java
+· Background (Fondo de Pantalla)
+*/
+/* AULA-3 Session de fin semana 9-12
+· ImageView (Imagen)
+· ScrollView y HorizontalScrollView
+· Mas de ScrollView, HorizontalScrollView
+· Implementar OnClickListener en la Clase
+· Switch y Case
+· AndroidManifest
+· Permisos (Wallpaper)
+· Toast (Mensaje en Pantalla)
+· EditText
+· Convertir Variable String a Int
+· If y else (Condicionales)
+*/
+======================================================
